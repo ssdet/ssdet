@@ -10,5 +10,5 @@ This is the Software Development & Engineering Team, School Of Engineering & Tec
 # Proposed projects to work on (Not in order of priority)
 1. A programming Contest Portal tailored for SOET.
 2. An SOET section ( Collection of static web pages : about, contact us, etc) on https://online.hnbgu.ac.in or https://hnbgu.ac.in
-3. Refactor & resdeign of the frontend of https://online.hnbgu.ac.in . It is currently unusable for mobile.
+3. Refactor & redesign of the frontend of https://online.hnbgu.ac.in . It is currently unusable for mobile.
 4. A placement portal for SOET.
