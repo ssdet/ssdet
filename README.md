@@ -28,7 +28,7 @@ For more details,visit: https://www.hnbgu.ac.in/
 
 1. A programming Contest Portal tailored for SOET.
 2. A SOET section ( Collection of static web pages : about, contact us etc) on https://online.hnbgu.ac.in or https://hnbgu.ac.in
-3. Refactor & redesign of the frontend of https://online.hnbgu.ac.in, It is currently unstable for mobile.
+3. Refactor & Redesign of the frontend of HNB Garhwal Central University website (https://online.hnbgu.ac.in) because it is currently unstable for mobile.
 4. A Placement Portal for SOET.
 
 # Join Us
@@ -63,4 +63,4 @@ git push origin branch-name
 * __Star this repository__ if this repository is your next contributing Open source Project 
 
 
-# Happy Learning 
+__Happy Learning__
