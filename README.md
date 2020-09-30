@@ -62,5 +62,4 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if this repository is your next contributing Open source Project 
 
-
 __Happy Learning__
