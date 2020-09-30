@@ -2,7 +2,7 @@
 This is the Software Development & Engineering Team, School Of Engineering & Technology, Hemavati Nandan Bahuguna Garhwal University (A Central University).
 
 # About Us
-We are a community of like-minded dedicated people, belong to School Of Engineering & Technology, Hemavati Nandan Bahuguna Garhwal University (A Central University). We are focused to work on the enhancement of technical aspects of University for seamless experience for users over online university portals, providing platform to students to get-in-touch with latest technologies and trends and much more. We believe in helping and growing for a sustainable developement.
+We are a community of like-minded dedicated people, belonging to School Of Engineering & Technology, Hemavati Nandan Bahuguna Garhwal University (A Central University). We are focused to work on the enhancement of technical aspects of University for seamless experience for users over online university portals, providing platform to students to get-in-touch with latest technologies and trends and much more. We believe in helping and growing for a sustainable developement.
 
 We are always open for people who are here for a change,with a vision and to contribute for a betterment; believes in learning,helping and growing together.
 
