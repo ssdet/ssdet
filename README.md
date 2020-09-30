@@ -27,9 +27,25 @@ For more details,visit: https://www.hnbgu.ac.in/
 # Proposed projects to work on (Not in order of priority)
 
 1. A programming Contest Portal tailored for SOET.
+
+   [For Contributing](https://github.com/ssdet/quiz-portal)
+
 2. A SOET section ( Collection of static web pages : about, contact us etc) on https://online.hnbgu.ac.in or https://hnbgu.ac.in
+
 3. Refactor & Redesign of the frontend of HNB Garhwal Central University website (https://online.hnbgu.ac.in) because it is currently unstable for mobile.
 4. A Placement Portal for SOET.
+
+
+3. Refactor & redesign of the frontend of https://online.hnbgu.ac.in, It is currently unstable for mobile.
+ 
+   [For Contributing](https://github.com/ssdet/edrp-frontend)
+
+4. A Placement Portal for SOET. 
+
+   [For Contributing Frontend](https://github.com/ssdet/PlaceMe-Frontend)
+
+   [For Contributing Backend](https://github.com/ssdet/PlaceMe-Backend)
+
 
 # Join Us
 
