@@ -23,6 +23,7 @@ For more details,visit: https://www.hnbgu.ac.in/
    [For Contributing](https://github.com/ssdet/quiz-portal)
 
 2. A SOET section ( Collection of static web pages : about, contact us etc) on https://online.hnbgu.ac.in or https://hnbgu.ac.in
+   To be announced...
 
 3. Refactor & redesign of the frontend of https://online.hnbgu.ac.in, It is currently unstable for mobile.
  
