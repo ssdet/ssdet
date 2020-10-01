@@ -97,5 +97,6 @@ Thanks goes to these wonderful people
   </td>
 </table>
 <br>
-__If you appreciate there contribution, Do give them a Star__
+__If you appreciate their contribution, Do give them a Star__
+<br>
 __If you want you name here Do Contribute__
