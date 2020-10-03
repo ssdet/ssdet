@@ -8,6 +8,12 @@ We are a community of like-minded dedicated people, belonging to School Of Engin
 
 We welcome people with a vision to contribute for the betterment of the community; who believe in learning, helping and growing together.
 
+# About School Of Engineering And Technology
+School Of Engineering And Technology, under Hemavati Nandan Bahuguna Garhwal University (A Central University) situated in the Chauras Campus of the University. We are having courses B.Tech (CSE,IT,ECE,ME,EIN), M.Tech(CSE) & MCA with well-equipped labs and great supportive faculties.
+
+We are with best infrastructure, and ample of natural beauty which provides a great environment to learn & grow. 
+
+
 # About University
 
 Hemvati Nandan Bahuguna Garhwal University was established as a State University vide U.P. State Government notification no. (10)/(865)/15/(75)(85)/64 dated 23 November 1973. t has a rare distinction of taking birth through a powerful popular movement during early seventies in the last century. This movement symbolized the hopes and aspirations of the masses of the region of Garhwal for the development through higher education.
